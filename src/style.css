@@ -3,3 +3,18 @@
 body{
     background: white;
 }
+.excuse{
+    font-size: larger;
+}
+button{
+    width: 500px;
+    background-color: rgb(249, 178, 178);
+    border-radius: 10px;
+    font-size: larger;
+}
+img{
+    border-radius: 30px;
+    width: 500px;
+    height: 300px;
+    object-fit: cover;
+}
